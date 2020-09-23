@@ -31,5 +31,5 @@
 
 	<footer class="entry-footer">
 		<?php innate_entry_footer(); ?>
-	</footer><!-- .entry-footer -->
+	</footer>
 </article><!-- #post-<?php the_ID(); ?> -->
